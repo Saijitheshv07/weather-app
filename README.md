@@ -2,6 +2,11 @@
 A Real time web application that gives the entire information of the given specific location. The website uses openweathermap API to fetch necessary data for displaying
 weather information.
 
+## Screenshot :
+
+# ![WEATHER_APP](screenshot.jpg)
+
+
 ## TechStacks / Modules used
 - HTML
 - CSS 
